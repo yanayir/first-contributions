@@ -2727,6 +2727,7 @@
 - [Siddak Bagga](https://github.com/siddakbagga13)
 - [Harsh Singh](https://github.com/lives-in-virgosupercluster)
 - [Abhay Dixit](https://github.com/AbhayD11)
+- [Yanayir Rifai](https://github.com/yanayir)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
 - [Vishwas Gowda H V ](https://github.com/vishwasgowdahv)
 - [Yuhanna Kapali](https://github.com/Yuhannakapali)
